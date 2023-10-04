@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mosvont Academy App</string>
+    <string name="started_title">Selamat Datang
+    </string>
+    <string name="started_sub_title">
+        Selamat datang di Mosvont Academy
+        yang membantu para pelajar dalam
+        meningkatkan pembelajaran mandiri
+        dengan fitur yang disediakan
+    </string>
+
+    <string name="started_pendidikan">Pentingnya Pendidikan</string>
+    <string name="started_sub_title_2">
+        Aplikasi ini dirancang untuk meningkatkan
+        pengetahuan akademik, melatih kemampuan diri,
+        serta memperluas wawasan seputar dunia akademik</string>
+</resources>
